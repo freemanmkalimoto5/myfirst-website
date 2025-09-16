@@ -8,7 +8,7 @@
 
 #nav{
     display:flex;
-    justify-content: space-between;
+/*     justify-content: space-between; */
 }
 
 .navit{
@@ -120,4 +120,5 @@ a{
 
 .icon{
     size: 10px;
+
 }
